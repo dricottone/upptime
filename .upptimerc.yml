@@ -1,25 +1,25 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: dricottone
+repo: upptime
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Blog
+    url: https://www.dominic-ricottone.com
+  - name: Wiki
+    url: https://wiki.dominic-ricottone.org
+  - name: Code Repo
+    url: https://git.dominic-ricottone.com
+  - name: Placeholder - Go Module Proxy Endpoint
+    url: https://go.dominic-ricottone.com
+  - name: Placeholder - VPN Endpoint
+    url: https://vpn.dominic-ricottone.com
+  - name: Placeholder - FTP Endpoint
+    url: https://ftp.dominic-ricottone.com
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  # Either `cname` for custom hosting or `baseUrl` for github.io hosting
+  #cname: dev.dominic-ricottone.com
+  baseUrl: /upptime
+
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
