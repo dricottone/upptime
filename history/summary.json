@@ -2,6 +2,7 @@
   {
     "name": "Blog",
     "url": "https://www.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/www.dominic-ricottone.com",
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
@@ -13,27 +14,34 @@
     "timeDay": 166,
     "timeWeek": 200,
     "timeMonth": 200,
-    "timeYear": 200
+    "timeYear": 200,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
     "url": "https://wiki.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/wiki.dominic-ricottone.com",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
     "time": 169,
     "timeDay": 179,
     "timeWeek": 169,
     "timeMonth": 169,
-    "timeYear": 169
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2020-12-07": 0,
+      "2020-12-02": 44
+    }
   },
   {
     "name": "Code Repo",
     "url": "https://git.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/git.dominic-ricottone.com",
     "slug": "code-repo",
     "status": "up",
     "uptime": "100.00%",
@@ -45,11 +53,13 @@
     "timeDay": 161,
     "timeWeek": 151,
     "timeMonth": 151,
-    "timeYear": 151
+    "timeYear": 151,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Placeholder - Go Module Proxy Endpoint",
     "url": "https://go.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/go.dominic-ricottone.com",
     "slug": "placeholder-go-module-proxy-endpoint",
     "status": "down",
     "uptime": "0.00%",
@@ -61,11 +71,20 @@
     "timeDay": 148,
     "timeWeek": 148,
     "timeMonth": 148,
-    "timeYear": 148
+    "timeYear": 148,
+    "dailyMinutesDown": {
+      "2020-12-07": 1304,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 384
+    }
   },
   {
     "name": "Placeholder - VPN Endpoint",
     "url": "https://vpn.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/vpn.dominic-ricottone.com",
     "slug": "placeholder-vpn-endpoint",
     "status": "down",
     "uptime": "0.00%",
@@ -77,11 +96,20 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 1304,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 383
+    }
   },
   {
     "name": "Placeholder - FTP Endpoint",
     "url": "https://ftp.dominic-ricottone.com",
+    "icon": "https://favicons.githubusercontent.com/ftp.dominic-ricottone.com",
     "slug": "placeholder-ftp-endpoint",
     "status": "down",
     "uptime": "0.00%",
@@ -93,6 +121,14 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 1304,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 383
+    }
   }
 ]
