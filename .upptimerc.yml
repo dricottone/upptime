@@ -8,6 +8,8 @@ sites:
     url: https://wiki.dominic-ricottone.com
   - name: Code Repo
     url: https://git.dominic-ricottone.com
+  - name: AWS2
+    url: https://aws2.dominic-ricottone.com
   - name: Placeholder - Go Module Proxy Endpoint
     url: https://go.dominic-ricottone.com
   - name: Placeholder - VPN Endpoint
