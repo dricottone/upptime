@@ -8,20 +8,6 @@ sites:
     url: https://wiki.dominic-ricottone.com
   - name: Code Repo
     url: https://git.dominic-ricottone.com
-  - name: Host AWS2
-    url: https://aws2.dominic-ricottone.com
-  - name: Host Alpine1
-    url: https://alpine1.dominic-ricottone.com
-  - name: Host Ubuntu1
-    url: https://ubuntu1.dominic-ricottone.com
-  - name: Go Module Proxy Endpoint
-    url: https://go.dominic-ricottone.com
-  - name: VPN Endpoint
-    url: https://vpn.dominic-ricottone.com
-  - name: FTP Endpoint
-    url: https://ftp.dominic-ricottone.com
-  - name: Docker Registry Endpoint
-    url: https://docker.dominic-ricottone.com
 
 status-website:
   baseUrl: /upptime
