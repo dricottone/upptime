@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 301,
-    "timeDay": 261,
-    "timeWeek": 245,
+    "time": 300,
+    "timeDay": 247,
+    "timeWeek": 242,
     "timeMonth": 231,
-    "timeYear": 301,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2021-02-16": 21,
       "2021-01-15": 299,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.77%",
     "time": 190,
-    "timeDay": 149,
-    "timeWeek": 204,
-    "timeMonth": 197,
+    "timeDay": 138,
+    "timeWeek": 196,
+    "timeMonth": 195,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2021-03-15": 34,
@@ -57,156 +57,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 252,
-    "timeDay": 240,
-    "timeWeek": 198,
+    "time": 251,
+    "timeDay": 220,
+    "timeWeek": 196,
     "timeMonth": 190,
-    "timeYear": 252,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2021-02-16": 21,
       "2021-01-15": 299,
       "2021-01-14": 710
-    }
-  },
-  {
-    "name": "Host AWS2",
-    "url": "https://aws2.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/aws2.dominic-ricottone.com",
-    "slug": "host-aws-2",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.96%",
-    "time": 112,
-    "timeDay": 151,
-    "timeWeek": 146,
-    "timeMonth": 123,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2021-03-15": 34,
-      "2021-01-27": 15
-    }
-  },
-  {
-    "name": "Host Alpine1",
-    "url": "https://alpine1.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/alpine1.dominic-ricottone.com",
-    "slug": "host-alpine1",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 204,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 176,
-    "timeYear": 204,
-    "dailyMinutesDown": {
-      "2021-02-16": 20
-    }
-  },
-  {
-    "name": "Host Ubuntu1",
-    "url": "https://ubuntu1.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/ubuntu1.dominic-ricottone.com",
-    "slug": "host-ubuntu1",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 160,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 167,
-    "timeYear": 160,
-    "dailyMinutesDown": {
-      "2021-01-27": 59
-    }
-  },
-  {
-    "name": "Go Module Proxy Endpoint",
-    "url": "https://go.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/go.dominic-ricottone.com",
-    "slug": "go-module-proxy-endpoint",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 195,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 153,
-    "timeYear": 195,
-    "dailyMinutesDown": {
-      "2021-02-16": 20
-    }
-  },
-  {
-    "name": "VPN Endpoint",
-    "url": "https://vpn.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/vpn.dominic-ricottone.com",
-    "slug": "vpn-endpoint",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
-    "time": 163,
-    "timeDay": 182,
-    "timeWeek": 161,
-    "timeMonth": 159,
-    "timeYear": 163,
-    "dailyMinutesDown": {
-      "2021-01-27": 58
-    }
-  },
-  {
-    "name": "FTP Endpoint",
-    "url": "https://ftp.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/ftp.dominic-ricottone.com",
-    "slug": "ftp-endpoint",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 186,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 154,
-    "timeYear": 186,
-    "dailyMinutesDown": {
-      "2021-02-16": 20
-    }
-  },
-  {
-    "name": "Docker Registry Endpoint",
-    "url": "https://docker.dominic-ricottone.com",
-    "icon": "https://favicons.githubusercontent.com/docker.dominic-ricottone.com",
-    "slug": "docker-registry-endpoint",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 187,
-    "timeWeek": 145,
-    "timeMonth": 126,
-    "timeYear": 118,
-    "dailyMinutesDown": {
-      "2021-01-27": 15
     }
   }
 ]
