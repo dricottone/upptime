@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/www.dominic-ricottone.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.60%",
-    "time": 236,
-    "timeDay": 131,
-    "timeWeek": 178,
-    "timeMonth": 175,
+    "time": 235,
+    "timeDay": 97,
+    "timeWeek": 151,
+    "timeMonth": 171,
     "timeYear": 239,
     "dailyMinutesDown": {
       "2021-09-23": 917,
@@ -27,8 +27,7 @@
       "2021-09-15": 522,
       "2021-09-08": 73,
       "2021-02-16": 21,
-      "2021-01-15": 299,
-      "2021-01-14": 710
+      "2021-01-15": 299
     }
   },
   {
@@ -42,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 217,
-    "timeDay": 121,
-    "timeWeek": 140,
+    "time": 216,
+    "timeDay": 117,
+    "timeWeek": 127,
     "timeMonth": 127,
-    "timeYear": 221,
+    "timeYear": 220,
     "dailyMinutesDown": {
       "2021-11-24": 56,
       "2021-10-20": 57,
@@ -63,16 +62,16 @@
     "icon": "https://favicons.githubusercontent.com/git.dominic-ricottone.com",
     "slug": "code-repo",
     "status": "up",
-    "uptime": "97.84%",
+    "uptime": "97.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.60%",
-    "time": 189,
-    "timeDay": 90,
-    "timeWeek": 139,
+    "time": 188,
+    "timeDay": 85,
+    "timeWeek": 115,
     "timeMonth": 132,
-    "timeYear": 191,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2021-09-23": 917,
       "2021-09-22": 1440,
@@ -85,8 +84,7 @@
       "2021-09-15": 521,
       "2021-09-08": 73,
       "2021-02-16": 21,
-      "2021-01-15": 299,
-      "2021-01-14": 710
+      "2021-01-15": 299
     }
   }
 ]
