@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dominic-ricottone.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.61%",
-    "time": 215,
-    "timeDay": 272,
-    "timeWeek": 258,
-    "timeMonth": 275,
-    "timeYear": 216,
+    "uptimeYear": "97.88%",
+    "time": 216,
+    "timeDay": 435,
+    "timeWeek": 278,
+    "timeMonth": 279,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-08-08": 1156,
       "2022-08-07": 285,
@@ -24,8 +24,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 1440,
-      "2021-09-17": 1440
+      "2021-09-18": 1440
     }
   },
   {
@@ -40,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 224,
-    "timeDay": 239,
-    "timeWeek": 253,
-    "timeMonth": 416,
-    "timeYear": 189,
+    "timeDay": 483,
+    "timeWeek": 293,
+    "timeMonth": 423,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2022-08-08": 1156,
       "2022-08-07": 285,
@@ -62,14 +61,14 @@
     "status": "up",
     "uptime": "97.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.55%",
+    "uptimeWeek": "99.05%",
     "uptimeMonth": "82.52%",
-    "uptimeYear": "96.15%",
-    "time": 179,
-    "timeDay": 349,
-    "timeWeek": 352,
-    "timeMonth": 316,
-    "timeYear": 182,
+    "uptimeYear": "96.42%",
+    "time": 180,
+    "timeDay": 474,
+    "timeWeek": 343,
+    "timeMonth": 320,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2022-09-11": 47,
       "2022-09-10": 48,
@@ -89,8 +88,7 @@
       "2021-09-21": 1440,
       "2021-09-20": 1440,
       "2021-09-19": 1440,
-      "2021-09-18": 1440,
-      "2021-09-17": 1440
+      "2021-09-18": 1440
     }
   }
 ]
