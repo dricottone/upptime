@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dominic-ricottone.com.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 249,
-    "timeDay": 176,
-    "timeWeek": 205,
-    "timeMonth": 185,
-    "timeYear": 249,
+    "timeDay": 79,
+    "timeWeek": 177,
+    "timeMonth": 179,
+    "timeYear": 248,
     "dailyMinutesDown": {
       "2023-02-19": 121,
       "2022-10-05": 55,
-      "2022-08-08": 1156,
-      "2022-08-07": 285
+      "2022-08-08": 1156
     }
   },
   {
@@ -34,9 +33,9 @@
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.17%",
     "time": 251,
-    "timeDay": 157,
-    "timeWeek": 227,
-    "timeMonth": 204,
+    "timeDay": 96,
+    "timeWeek": 196,
+    "timeMonth": 199,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2023-07-22": 978,
@@ -54,8 +53,7 @@
       "2022-12-11": 61,
       "2022-12-04": 62,
       "2022-10-18": 62,
-      "2022-08-08": 1156,
-      "2022-08-07": 285
+      "2022-08-08": 1156
     }
   },
   {
@@ -70,10 +68,10 @@
     "uptimeMonth": "98.99%",
     "uptimeYear": "96.78%",
     "time": 283,
-    "timeDay": 271,
-    "timeWeek": 269,
-    "timeMonth": 234,
-    "timeYear": 323,
+    "timeDay": 235,
+    "timeWeek": 263,
+    "timeMonth": 233,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2023-08-06": 74,
       "2023-08-01": 65,
@@ -110,8 +108,7 @@
       "2022-09-03": 1440,
       "2022-09-02": 1440,
       "2022-09-01": 51,
-      "2022-08-08": 1156,
-      "2022-08-07": 285
+      "2022-08-08": 1156
     }
   }
 ]
