@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.75%",
     "time": 249,
-    "timeDay": 79,
-    "timeWeek": 177,
+    "timeDay": 80,
+    "timeWeek": 155,
     "timeMonth": 179,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-02-19": 121,
-      "2022-10-05": 55,
-      "2022-08-08": 1156
+      "2022-10-05": 55
     }
   },
   {
@@ -31,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.57%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.23%",
     "time": 251,
-    "timeDay": 96,
-    "timeWeek": 196,
+    "timeDay": 74,
+    "timeWeek": 170,
     "timeMonth": 199,
-    "timeYear": 282,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2023-07-22": 978,
       "2023-07-21": 525,
@@ -52,8 +51,7 @@
       "2022-12-16": 64,
       "2022-12-11": 61,
       "2022-12-04": 62,
-      "2022-10-18": 62,
-      "2022-08-08": 1156
+      "2022-10-18": 62
     }
   },
   {
@@ -63,15 +61,15 @@
     "slug": "code-repo",
     "status": "up",
     "uptime": "97.89%",
-    "uptimeDay": "94.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.62%",
     "uptimeMonth": "98.99%",
-    "uptimeYear": "96.78%",
-    "time": 283,
-    "timeDay": 235,
-    "timeWeek": 263,
+    "uptimeYear": "96.85%",
+    "time": 284,
+    "timeDay": 215,
+    "timeWeek": 250,
     "timeMonth": 233,
-    "timeYear": 324,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-08-06": 74,
       "2023-08-01": 65,
@@ -107,8 +105,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 51,
-      "2022-08-08": 1156
+      "2022-09-01": 51
     }
   }
 ]
