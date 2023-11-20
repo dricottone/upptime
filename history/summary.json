@@ -4,9 +4,9 @@
     "url": "https://www.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dominic-ricottone.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 150,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2023-11-20": 0,
       "2023-02-19": 121
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://wiki.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dominic-ricottone.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "96.12%",
     "uptimeWeek": "98.88%",
