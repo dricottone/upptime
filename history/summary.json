@@ -75,18 +75,19 @@
     "url": "https://git.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.dominic-ricottone.com.ico",
     "slug": "code-repo",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "13.91%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "46.39%",
     "uptimeWeek": "71.31%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "97.86%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "97.88%",
     "time": 284,
-    "timeDay": 406,
-    "timeWeek": 568,
-    "timeMonth": 465,
-    "timeYear": 269,
+    "timeDay": 340,
+    "timeWeek": 565,
+    "timeMonth": 460,
+    "timeYear": 268,
     "dailyMinutesDown": {
+      "2024-06-11": 0,
       "2024-06-10": 1273,
       "2024-06-09": 942,
       "2024-06-08": 297,
@@ -170,8 +171,7 @@
       "2023-12-03": 65,
       "2023-11-28": 65,
       "2023-11-24": 66,
-      "2023-11-21": 59,
-      "2023-11-20": 64
+      "2023-11-21": 59
     }
   }
 ]
