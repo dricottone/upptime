@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 333,
-    "timeWeek": 210,
-    "timeMonth": 188,
+    "timeDay": 331,
+    "timeWeek": 230,
+    "timeMonth": 193,
     "timeYear": 196,
-    "dailyMinutesDown": {
-      "2023-11-21": 53
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.46%",
     "time": 208,
-    "timeDay": 403,
-    "timeWeek": 255,
-    "timeMonth": 217,
-    "timeYear": 218,
+    "timeDay": 406,
+    "timeWeek": 276,
+    "timeMonth": 223,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2024-02-07": 1098,
       "2024-02-06": 1440,
@@ -54,8 +52,7 @@
       "2023-12-09": 257,
       "2023-12-08": 1006,
       "2023-12-01": 228,
-      "2023-11-26": 363,
-      "2023-11-21": 53
+      "2023-11-26": 363
     }
   },
   {
@@ -66,14 +63,14 @@
     "status": "up",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.31%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "97.57%",
     "time": 261,
-    "timeDay": 240,
-    "timeWeek": 175,
-    "timeMonth": 192,
-    "timeYear": 265,
+    "timeDay": 265,
+    "timeWeek": 202,
+    "timeMonth": 193,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2024-11-15": 115,
       "2024-11-12": 56,
