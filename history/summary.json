@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 141,
-    "timeWeek": 289,
-    "timeMonth": 206,
+    "timeDay": 134,
+    "timeWeek": 276,
+    "timeMonth": 205,
     "timeYear": 197,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dominic-ricottone.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "97.48%",
     "time": 210,
-    "timeDay": 97,
-    "timeWeek": 307,
-    "timeMonth": 234,
+    "timeDay": 161,
+    "timeWeek": 302,
+    "timeMonth": 235,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-11-22": 60,
@@ -52,8 +52,7 @@
       "2023-12-11": 690,
       "2023-12-09": 257,
       "2023-12-08": 1006,
-      "2023-12-01": 228,
-      "2023-11-26": 363
+      "2023-12-01": 228
     }
   },
   {
@@ -68,9 +67,9 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "97.57%",
     "time": 261,
-    "timeDay": 507,
-    "timeWeek": 299,
-    "timeMonth": 218,
+    "timeDay": 526,
+    "timeWeek": 313,
+    "timeMonth": 220,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2024-11-24": 51,
