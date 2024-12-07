@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 110,
-    "timeWeek": 230,
-    "timeMonth": 225,
+    "timeDay": 316,
+    "timeWeek": 247,
+    "timeMonth": 229,
     "timeYear": 198,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "97.59%",
-    "time": 211,
-    "timeDay": 145,
-    "timeWeek": 248,
-    "timeMonth": 255,
+    "time": 212,
+    "timeDay": 385,
+    "timeWeek": 277,
+    "timeMonth": 261,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2024-11-22": 60,
@@ -50,8 +50,7 @@
       "2023-12-16": 1084,
       "2023-12-12": 616,
       "2023-12-11": 690,
-      "2023-12-09": 257,
-      "2023-12-08": 1006
+      "2023-12-09": 257
     }
   },
   {
@@ -60,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.dominic-ricottone.com.ico",
     "slug": "code-repo",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "97.57%",
     "time": 259,
-    "timeDay": 187,
-    "timeWeek": 189,
-    "timeMonth": 229,
+    "timeDay": 293,
+    "timeWeek": 209,
+    "timeMonth": 234,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2024-11-24": 51,
