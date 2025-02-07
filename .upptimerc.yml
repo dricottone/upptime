@@ -6,8 +6,6 @@ sites:
     url: https://www.dominic-ricottone.com
   - name: Wiki
     url: https://wiki.dominic-ricottone.com
-  - name: Code Repo
-    url: https://git.dominic-ricottone.com
 
 status-website:
   baseUrl: /upptime
