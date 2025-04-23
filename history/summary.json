@@ -4,36 +4,39 @@
     "url": "https://www.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dominic-ricottone.com.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 353,
-    "timeWeek": 257,
-    "timeMonth": 245,
-    "timeYear": 207,
-    "dailyMinutesDown": {}
+    "time": 201,
+    "timeDay": 257,
+    "timeWeek": 245,
+    "timeMonth": 242,
+    "timeYear": 206,
+    "dailyMinutesDown": {
+      "2025-04-23": 0
+    }
   },
   {
     "name": "Wiki",
     "url": "https://wiki.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dominic-ricottone.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 228,
-    "timeDay": 395,
-    "timeWeek": 298,
-    "timeMonth": 280,
-    "timeYear": 233,
+    "timeDay": 265,
+    "timeWeek": 278,
+    "timeMonth": 276,
+    "timeYear": 232,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2024-11-22": 60
     }
   }
