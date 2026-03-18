@@ -60,9 +60,9 @@
     "url": "https://wiki2.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki2.dominic-ricottone.com.ico",
     "slug": "wiki2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 847,
     "timeMonth": 895,
     "timeYear": 879,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   }
 ]
