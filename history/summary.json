@@ -13,7 +13,7 @@
     "time": 334,
     "timeDay": 312,
     "timeWeek": 220,
-    "timeMonth": 234,
+    "timeMonth": 230,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2025-11-12": 46,
@@ -37,7 +37,7 @@
     "time": 534,
     "timeDay": 304,
     "timeWeek": 3589,
-    "timeMonth": 1962,
+    "timeMonth": 2007,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2025-10-14": 61,
@@ -54,15 +54,15 @@
     "url": "https://wiki2.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki2.dominic-ricottone.com.ico",
     "slug": "wiki2",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "99.69%",
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "87.46%",
+    "uptimeWeek": "98.21%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "99.66%",
     "time": 1316,
-    "timeDay": 15632,
-    "timeWeek": 4643,
+    "timeDay": 10778,
+    "timeWeek": 4246,
     "timeMonth": 4221,
     "timeYear": 1316,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
       "2026-09-08": 43,
       "2026-09-11": 326,
       "2026-09-10": 204,
-      "2026-09-21": 0
+      "2026-09-21": 181
     }
   }
 ]
