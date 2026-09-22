@@ -54,17 +54,17 @@
     "url": "https://wiki2.dominic-ricottone.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki2.dominic-ricottone.com.ico",
     "slug": "wiki2",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "84.08%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "99.65%",
-    "time": 1399,
-    "timeDay": 20438,
-    "timeWeek": 7492,
-    "timeMonth": 4921,
-    "timeYear": 1399,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "99.62%",
+    "time": 1398,
+    "timeDay": 15596,
+    "timeWeek": 6850,
+    "timeMonth": 4820,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2026-03-18": 64,
       "2026-06-16": 373,
@@ -74,7 +74,7 @@
       "2026-09-11": 326,
       "2026-09-10": 204,
       "2026-09-21": 181,
-      "2026-09-22": 49
+      "2026-09-22": 154
     }
   }
 ]
